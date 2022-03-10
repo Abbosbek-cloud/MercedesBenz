@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 230
+    },
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    }
+  ],
+  "requests": [
+    {
+      "name": "await",
+      "phone": "+998976785734",
+      "id": 1
+    },
+    {
+      "name": "await",
+      "phone": "+998976785734",
+      "id": 2
+    },
+    {
+      "name": "abek01",
+      "phone": "76876",
+      "id": 3
+    },
+    {
+      "name": "abek01",
+      "phone": "76876",
+      "id": 4
+    },
+    {
+      "name": "abek01",
+      "phone": "76876",
+      "id": 5
+    }
+  ]
+}
